@@ -1,0 +1,6 @@
+{
+  "name": "selfplay-next",
+  "runtime": "policy",
+  "entry": "model.bin",
+  "description": "PPO with self-play against a pool of its own past versions and the Expert bots, trained on from the game's Self-play model."
+}
