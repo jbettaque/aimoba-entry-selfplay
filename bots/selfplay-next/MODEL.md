@@ -7,3 +7,4 @@ under league conditions (sampled actions, every seed from both sides).
 | Date | Update | Env steps | Checkpoint | Against the version before |
 | --- | --- | --- | --- | --- |
 | 2026-11-25 | 18740 | 835 M | `runs/rules4-c/latest.pt` | first version: no comparison |
+| 2026-11-25 | 19510 | 870 M | `runs/entry-a/latest.pt` | 1-0-1 against update 18740 (50.0%, 95% interval 9.5%-90.5%) |
